@@ -94,8 +94,8 @@ ___
 <!-- Tables -->
 | Name      | Email          |
 | --------  | -------------- |
-| Eddie Severoni | eyseveroni@gmail.com |
-| Danny Camargo  | dcamargorios@gmail.com     |
+| John Doe1 | johndoe1@gmail.com |
+| John Doe2  | johndoea2@gmail.com     |
 
 ___
 
